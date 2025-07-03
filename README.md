@@ -52,16 +52,3 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=500&lines=Feel+free+to+star+⭐+me&color=ff6600" alt="Typing SVG" />
 </p>
 
----
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=9&pause=1000&center=true&vCenter=true&width=500&lines=✨+Code.+Debug.+Repeat.&color=6a4b8b" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=9&pause=1000&center=true&vCenter=true&width=500&lines=or&color=6a4b8b" alt="Typing SVG" />
-</p>
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=9&pause=1000&center=true&vCenter=true&width=650&lines=😿+Code.+Debug.+Debug.+Debug.+Debug.+Debug.+Debug.+Debug.+Debug.+Debug.+Debug.+Debug.+Debug.+Debug.+Debug.+Repeat.&color=6a4b8b" alt="Typing SVG" />
-</p>
-
-
-
